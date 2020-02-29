@@ -1,0 +1,97 @@
+{
+    "results": [
+        {
+            "address_components": [    
+                {
+                    "long_name": "300",
+                    "short_name": "300",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "2500",
+                    "short_name": "2500",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Daniells Bridge Road",
+                    "short_name": "Daniells Bridge Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Athens",
+                    "short_name": "Athens",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oconee County",
+                    "short_name": "Oconee County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Georgia",
+                    "short_name": "GA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "30606",
+                    "short_name": "30606",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "2500 Daniells Bridge Rd #300, Athens, GA 30606, USA",
+            "geometry": {
+                "location": {
+                    "lat": 33.9094132,
+                    "lng": -83.4603953
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9107621802915,
+                        "lng": -83.45904631970849
+                    },
+                    "southwest": {
+                        "lat": 33.9080642197085,
+                        "lng": -83.46174428029151
+                    }
+                }
+            },
+            "place_id": "ChIJX-nQnzZy9ogRR_2GUv9bDM0",
+            "plus_code": {
+                "compound_code": "WG5Q+QR Barber Creek Estates",
+                "global_code": "865RWG5Q+QR"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "university"
+            ]
+        }
+    ],
+    "status": "OK"
+}
